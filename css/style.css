@@ -647,6 +647,10 @@ a {
     .group-hebergement-card {
         gap: 15px;
     }
+
+    .card-hebergement {
+        margin-bottom: 0px;
+    }
     
     /* Populaires */
     .populaires{
