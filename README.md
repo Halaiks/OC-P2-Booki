@@ -11,12 +11,15 @@ Vous êtes chargé d'intégrer l'interface du site avec du code HTML et CSS. Pou
 ## 🛠️ Technologies
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css" />
-
 </p>
 
-## 🙇 Auteur
+## 🏆 Résultat
+
+➡️  [Visiter le site](https://halaiks.github.io/OC-P2-Booki)
+<p align="center"><img src="screenshots/Booki.png" /></p>
+
+## 🙋🏼‍♂️ Auteur
 
 #### Alexandre GUILLAUME
 
