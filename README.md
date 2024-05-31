@@ -1,3 +1,5 @@
+<p align="center">ℹ️ <b>Un README plus complet arrive bientôt ...</b></p>
+
 # <p align="center"><img src="https://user.oc-static.com/upload/2024/01/23/17060249844641_Capture%20d%E2%80%99e%CC%81cran%202024-01-23%20a%CC%80%2017.49.29.png" /></p>
 <p align="center">Projet réalisé dans le cadre de la formation Développeur Web avec OpenClassrooms</p>
 
@@ -11,12 +13,15 @@ Vous êtes chargé d'intégrer l'interface du site avec du code HTML et CSS. Pou
 ## 🛠️ Technologies
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css" />
-
 </p>
 
-## 🙇 Auteur
+## 🏆 Résultat
+
+➡️  [Visiter le site](https://halaiks.github.io/OC-P2-Booki)
+<p align="center"><img src="screenshots/Booki.png" /></p>
+
+## 🙋🏼‍♂️ Auteur
 
 #### Alexandre GUILLAUME
 
