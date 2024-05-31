@@ -28,12 +28,12 @@ ou Less) ne doit être utilisé.
 ## 🏆 Résultat
 
 ➡️  [Visiter le site](https://halaiks.github.io/OC-P2-Booki)
-<p align="center"><img src="screenshots/Booki.png" /></p>
+
 
 ## 🙋🏼‍♂️ Auteur
 
 #### Alexandre GUILLAUME
 
-- Site web : [Alexandre-Guillaume.fr](https://alexandre-guillaume.fr)`
+- Site web : [Alexandre-Guillaume.fr](https://alexandre-guillaume.fr)
 - LinkedIn : [Alexandre GUILLAUME](https://www.linkedin.com/in/alexguillaume94/)
 - Github : [@Halaiks](https://github.com/Halaiks)
