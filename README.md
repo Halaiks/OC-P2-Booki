@@ -28,6 +28,7 @@ ou Less) ne doit être utilisé.
 ## 🏆 Résultat
 
 ➡️  [Visiter le site](https://halaiks.github.io/OC-P2-Booki)
+<p align="center"><img src="screenshots/Booki.png" /></p>
 
 
 ## 🙋🏼‍♂️ Auteur
