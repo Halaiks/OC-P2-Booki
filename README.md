@@ -25,5 +25,6 @@ Vous êtes chargé d'intégrer l'interface du site avec du code HTML et CSS. Pou
 
 #### Alexandre GUILLAUME
 
-- Site web : [Alexandre-Guillaume.fr](https://alexandre-guillaume.fr)
+- Site web : [Alexandre-Guillaume.fr](https://alexandre-guillaume.fr)`
+- LinkedIn : [Alexandre GUILLAUME](https://www.linkedin.com/in/alexguillaume94/)
 - Github : [@Halaiks](https://github.com/Halaiks)
